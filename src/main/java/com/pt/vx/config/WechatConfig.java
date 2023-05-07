@@ -41,8 +41,8 @@ public class WechatConfig {
                 "o6eYf5nKZmGgWRXAErqPztxzKmh8", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "I5z6JC_6FSC-zXMM4VZqR9iD_JyrrZx5Mn04vMd2ixM", //要给这个人发送的模板ID
                 "田爽", //咋称呼这个人
-                "江苏省南京市玄武区", //这个人的详细地址
-                "南京", //这个人在的城市
+                "宁夏回族自治银川市西夏区", //这个人的详细地址
+                "银川", //这个人在的城市
                 new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
                 new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
                 new BirthDay(2020,7,8,true,true),
@@ -51,10 +51,10 @@ public class WechatConfig {
 
         userList.add(getUser(
                 "o6eYf5vS_d1KNwkkCtgrxoa-NHiU",
-                "	I5z6JC_6FSC-zXMM4VZqR9iD_JyrrZx5Mn04vMd2ixM",
-                "田爽",
-                "宁夏回族自治银川市西夏区",
-                "银川",
+                "I5z6JC_6FSC-zXMM4VZqR9iD_JyrrZx5Mn04vMd2ixM",
+                "赵南",
+                "江苏省苏州市吴江区",
+                "吴江",
                 new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
                 new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
                 new BirthDay(2020,7,8,true,true),
