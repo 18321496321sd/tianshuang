@@ -43,8 +43,8 @@ public class WechatConfig {
                 "田爽", //咋称呼这个人
                 "宁夏回族自治银川市西夏区", //这个人的详细地址
                 "银川", //这个人在的城市
-                new BirthDay(2002,8,25,true,false,"pt生日快乐！！"),
-                new BirthDay(2000,10,21,false,false,"生日快乐哦~~"),
+                new BirthDay(2000,10,21,true,false,"pt生日快乐！！"),
+                new BirthDay(2002,8,25,false,false,"生日快乐哦~~"),
                 new BirthDay(2023,1,7,true,true),
                 new BirthDay(2024,1,7,true,false,"周年快乐！！！")
         ));
@@ -55,8 +55,8 @@ public class WechatConfig {
                 "赵南",
                 "江苏省苏州市吴江区",
                 "吴江",
-                new BirthDay(2000,10,21,false,false,"生日快乐哦~~"),
-                new BirthDay(2002,8,25,true,false,"pt生日快乐！！"),
+                new BirthDay(2002,8,25,false,false,"生日快乐哦~~"),
+                new BirthDay(2000,10,21,true,false,"pt生日快乐！！"),
                 new BirthDay(2023,1,7,true,true),
                 new BirthDay(2024,1,7,true,false,"周年快乐！！！")
         ));
