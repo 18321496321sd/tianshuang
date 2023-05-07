@@ -39,7 +39,7 @@ public class WechatConfig {
     static {
         userList.add(getUser(
                 "o6eYf5nKZmGgWRXAErqPztxzKmh8", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "I5z6JC_6FSC-zXMM4VZqR9iD_JyrrZx5Mn04vMd2ixM", //要给这个人发送的模板ID
+                "-uyS3onp4sAqSBX1UCSGvhDyB0QQjldK-JMM3CkmEoE", //要给这个人发送的模板ID
                 "田爽", //咋称呼这个人
                 "宁夏回族自治银川市西夏区", //这个人的详细地址
                 "银川", //这个人在的城市
@@ -51,7 +51,7 @@ public class WechatConfig {
 
         userList.add(getUser(
                 "o6eYf5vS_d1KNwkkCtgrxoa-NHiU",
-                "I5z6JC_6FSC-zXMM4VZqR9iD_JyrrZx5Mn04vMd2ixM",
+                "-uyS3onp4sAqSBX1UCSGvhDyB0QQjldK-JMM3CkmEoE",
                 "赵南",
                 "江苏省苏州市吴江区",
                 "吴江",
