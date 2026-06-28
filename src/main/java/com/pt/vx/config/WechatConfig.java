@@ -11,13 +11,13 @@ public class WechatConfig {
      * 你的微信的APPID
      * appId
      */
-    public static final String VxAppId = "wx97f5e4a07d0226a1";
+    public static final String VxAppId = "wx24ebdc06d293b9ff";
 
     /**
      * 你的微信的密钥
      * appSecret
      */
-    public static final String VxAppSecret = "579e59c93bfb2c960e441af96146a789";
+    public static final String VxAppSecret = "06f3eec6770fccb97e9e049b271b3560";
 
     public static final List<User> userList = new ArrayList<>();
 
@@ -50,11 +50,11 @@ public class WechatConfig {
         ));
 
         userList.add(getUser(
-                "o6eYf5vS_d1KNwkkCtgrxoa-NHiU",
-                "-uyS3onp4sAqSBX1UCSGvhDyB0QQjldK-JMM3CkmEoE",
+                "ohxKa2IrseK9Grivs5VyXk4lAkm4",
+                "YAVf_K_t0blozQHKgN7nQbT5kAkTq5GMiH2BMzgLHmk",
                 "赵南",
-                "宁夏回族自治银川市西夏区",
-                "银川",
+                "江苏省苏州市吴中区",
+                "苏州",
                 new BirthDay(2002,8,25,false,false,"生日快乐哦~~"),
                 new BirthDay(2000,10,21,false,false,"pt生日快乐！！"),
                 new BirthDay(2024,1,7,false,false),
