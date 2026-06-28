@@ -51,7 +51,7 @@ public class WechatConfig {
 
         userList.add(getUser(
                 "ohxKa2IrseK9Grivs5VyXk4lAkm4",
-                "YAVf_K_t0blozQHKgN7nQbT5kAkTq5GMiH2BMzgLHmk",
+                "LiObyXEMIu-vyKe0etUCXk1xy_VKuRdb_jF3JjEqC0w",
                 "赵南",
                 "江苏省苏州市吴中区",
                 "苏州",
