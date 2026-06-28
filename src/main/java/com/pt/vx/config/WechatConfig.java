@@ -38,10 +38,10 @@ public class WechatConfig {
      */
     static {
         userList.add(getUser(
-                "o6eYf5nKZmGgWRXAErqPztxzKmh8", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "-uyS3onp4sAqSBX1UCSGvhDyB0QQjldK-JMM3CkmEoE", //要给这个人发送的模板ID
+                "ohxKa2FlEE5u3CjnBaBpcrbmYqsA", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "LiObyXEMIu-vyKe0etUCXk1xy_VKuRdb_jF3JjEqC0w", //要给这个人发送的模板ID
                 "田爽", //咋称呼这个人
-                "宁夏回族自治银川市西夏区", //这个人的详细地址
+                "宁夏回族自治区银川市西夏区", //这个人的详细地址
                 "银川", //这个人在的城市
                 new BirthDay(2000,10,21,false,false,"pt生日快乐！！"),
                 new BirthDay(2002,8,25,false,false,"生日快乐哦~~"),
